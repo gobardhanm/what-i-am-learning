@@ -8,3 +8,10 @@
 
 ---
 
+## Prerequisites:
+
+- JS fundamentals (Functions, loops, objects, classes, etc.)
+- Asynchronous programming - Promises, callbacks, async/await
+- HTTP Basics (Methods, status codes, etc. )
+- How JSON APIs work
+- NPM 
