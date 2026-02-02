@@ -1,8 +1,9 @@
 import http from 'http';
-const PORT = process.env.PORT;
 import url from 'url';
 import fs from 'fs/promises';
 import path from 'path';
+const PORT = process.env.PORT;
+
 
 const __filename = url.fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
