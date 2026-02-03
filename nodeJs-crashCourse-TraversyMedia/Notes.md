@@ -15,3 +15,7 @@
 - HTTP Basics (Methods, status codes, etc. )
 - How JSON APIs work
 - NPM 
+
+## Middleware
+- Middleware are module or function that has access to the request and response of object.
+- 
