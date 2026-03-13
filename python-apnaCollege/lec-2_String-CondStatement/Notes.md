@@ -20,4 +20,16 @@ str3 = """sljdfljsljfls"""
 - Concatenation:(`str1 + str2`)
 - Length of str (`len(str)`)
 
-Resume at Lec-2 > 9:15
+## Indexing:
+
+- Index in string.
+
+## Slicing:
+
+- Accessing parts of a sting.
+- Ex:
+  str[start_idx : end_idx] # end_idx is not included.
+
+### Negative Index:
+
+- Last idx is -1 and decreases as we move backwards Ex: [-3,-2,-1]
