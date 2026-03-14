@@ -1,3 +1,2 @@
-str = "IIT Bhilai"
-print(str[0])
-print(str[0:4])
+str = input("Enter your string: ")
+print(str.count("$"))

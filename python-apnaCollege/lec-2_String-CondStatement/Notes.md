@@ -33,3 +33,27 @@ str3 = """sljdfljsljfls"""
 ### Negative Index:
 
 - Last idx is -1 and decreases as we move backwards Ex: [-3,-2,-1]
+
+## String Functions:
+
+- str.endswith("value") # returns true if ends with value
+- str.capitalize() # Make the first char capital
+- str.replace(old,new)
+- str.find(word) # return the first index of the word, -1 otherwise
+- str.count("sub-string") # count the occurence
+
+## Conditional Statements:
+
+- if-elif-else (Syntax)
+- Ex:
+
+```
+if(condition):
+  Statement1
+elif(condition):
+  Statement2
+else:
+  StatementN
+```
+
+-
