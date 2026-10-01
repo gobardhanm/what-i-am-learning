@@ -52,7 +52,10 @@ class Generics_1{
         String arr2Name2 = (String) list2.get(3);
         System.out.println(arr2Name2.toUpperCase());
 
+        /*------------------------------------------------*/
 
+
+        // ArrayList<int> list2 = new ArrayList<>();  --> Invalid, we can not use primitive datatype for generics, it must be an object
 
 
     }
