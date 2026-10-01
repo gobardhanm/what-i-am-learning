@@ -20,5 +20,7 @@ public class Percentage {
         double percentage = ((double)(sub1 + sub2 + sub3 + sub4 + sub5) / totalMarks) * 100;
 
         System.out.println("The total percentage of the given student is:" + percentage);
+
+        sc.close();
     }
 }

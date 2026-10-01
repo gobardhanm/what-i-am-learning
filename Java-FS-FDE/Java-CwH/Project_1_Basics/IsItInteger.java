@@ -11,5 +11,7 @@ public class IsItInteger {
             System.out.println("It is an integer");
         }else System.out.println("It's not an integer");
 
+        sc.close();
+
     }
 }

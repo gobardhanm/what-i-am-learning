@@ -1,0 +1,47 @@
+> Collection(s) :
+
+1. Collection API : The Java Collections Framework/API is a set of interfaces, classes, and methods provided by Java to store and manipulate groups of objects.
+
+Ex:
+Java Collection API
+│
+├── Interfaces
+│   ├── List
+│   ├── Set
+│   ├── Queue
+│   └── Map
+│
+├── Implementations
+│   ├── ArrayList
+│   ├── LinkedList
+│   ├── HashSet
+│   ├── TreeSet
+│   ├── HashMap
+│   └── TreeMap
+│
+└── Utility methods
+    ├── sort()
+    ├── reverse()
+    ├── shuffle()
+    └── etc.
+
+2. Collection → an interface
+
+Ex: Collection<String> names;
+
+It is a parent interface for List, Set, and Queue.
+
+
+3. Collections → a utility class
+
+Ex: 
+Collections.sort(names);
+Collections.reverse(names);
+
+-------------------------------------------------------------------------
+SUMMARY
+----------
+Collection  → interface
+Collections → utility class
+Collections Framework/API → entire system
+-------------------------------------------------------------------------

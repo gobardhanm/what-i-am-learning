@@ -13,6 +13,8 @@ public class CwH_05_UserInput {
 
         int sum = a + b;
         System.out.println("The sum of the two numbers is: "+" "+ sum);
+
+        sc.close();
         
     }
 }
